@@ -41,17 +41,24 @@ Teacher List
 202-D List
 1. Nabua, Mark Joseph H.
 2. Masambal, John Paul M.
-<<<<<<< HEAD
-3.
-4.
-5. 
-=======
 3. Osias, Tyron N.
 4. Moya, Warren D.
 5.
 6.
 7. Miguel, Donn Augusto N.
->>>>>>> upstream/main
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
 // You can add numbers to continue the list
 
 202-E List
