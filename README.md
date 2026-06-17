@@ -61,7 +61,7 @@ Teacher List
 21. Peligrino Jb A.
 22. Mencidor, April Joy R.
 23. Ashley, Paual M.
-24. 
+24. Miguel, Donn Augusto N.
 25. 
 26. 
 27. 
